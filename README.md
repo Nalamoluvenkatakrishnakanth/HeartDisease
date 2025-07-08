@@ -22,6 +22,7 @@ To build an interactive web application that assesses a person’s heart disease
 ---
 
 ## 💻 Technologies Used
+- **MySQL**
 - **Python**
 - **Streamlit** (for UI)
 - **Scikit-Learn** (for ML model training)
