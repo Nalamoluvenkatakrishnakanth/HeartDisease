@@ -58,7 +58,7 @@ Multiple models were trained and evaluated:
 - **Support Vector Machine (SVM)** - *i have chosen for deployment "After evaluating multiple classification models including Decision Tree, Random Forest, and XGBoost, the Support Vector Machine (SVM) classifier was selected for deployment due to its superior performance and consistent accuracy in predicting heart disease risk on the test data."*
 
 **Evaluation Metrics:**
-- Accuracy
+- Accuracy 
 - Precision, Recall, F1-Score
 - Confusion Matrix
 - ROC Curve and AUC Score
